@@ -1,4 +1,3 @@
-//variables contains favorite number
 let firstFavNum = 28;
 let secondFavNum = 22;
 

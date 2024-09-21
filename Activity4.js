@@ -1,6 +1,6 @@
 var firstFavNumb = 28;
 var secondFavNumb = 22;
-
+//
 
 let Gthan = firstFavNumb > secondFavNumb;
 let Lthan = firstFavNumb < secondFavNumb;
