@@ -1,3 +1,4 @@
+//variable.js
 let bossG = "Xyril Gabriel L. Abaya";
 let whatDoYouWannaBecomeInYourLife = "programmer";
 let gender = "Male";
